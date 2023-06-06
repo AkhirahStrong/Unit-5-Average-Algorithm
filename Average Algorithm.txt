@@ -1,0 +1,12 @@
+The Algorithm: Given an array of numbers, find the average of all the positive numbers. 
+Ignore the negative numbers.
+
+START
+Input Array
+Set numbers = positive
+Set sum = 0
+Loop through array elements
+	Remove negative numbers
+	Add element value to sum
+Output sum
+END
