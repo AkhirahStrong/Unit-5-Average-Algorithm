@@ -7,6 +7,6 @@ Set numbers = positive
 Set sum = 0
 Loop through array elements
 	Remove negative numbers
-	Add element value to sum
+	Add element value to sum /numbers
 Output sum
 END
